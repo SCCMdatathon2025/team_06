@@ -179,6 +179,3 @@ For more information about CLIF:
 - DuckDB for data processing
 - Jupyter notebooks for analysis
 
----
-
-*This analysis demonstrates the power of standardized data formats like CLIF for enabling sophisticated, multi-institutional critical care research while maintaining data quality and consistency.*
