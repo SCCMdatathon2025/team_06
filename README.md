@@ -1,5 +1,4 @@
-# ICU Cohort Analysis & CLIF Data Format Implementation
-
+# Delirium and Pateint Language
 This repository contains a comprehensive analysis of adult ICU patients using data converted from MIMIC-IV to the CLIF (Common Longitudinal ICU data Format) standardized format. The analysis creates a rich dataset suitable for federated research across multiple healthcare institutions.
 
 ## Overview
